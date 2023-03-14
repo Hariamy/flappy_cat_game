@@ -28,5 +28,10 @@ public class LogicScript : MonoBehaviour
     public void gameOver() {
         gameOverScreen.SetActive(true);
     }
+
+    [ContextMenu("Quit Game")] 
+    public void quitGame() {
+        Application.Quit();
+    }
 }
 
