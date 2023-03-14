@@ -1,1 +1,3 @@
-# flappy_cat_game
+# Jogo Flappy Cat
+
+* Primeiro projeto aprendendo a usar a Unity
